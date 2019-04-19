@@ -1,1 +1,1 @@
-go build -ldflags "-s"
+go build -ldflags "-s" src/main.go
