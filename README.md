@@ -1,5 +1,6 @@
 # pathgo
-Go语言实现，快速添加环境变量工具，适用于Mac和Linux
+Go语言实现，快速添加环境变量工具，适用于Mac和Linux。
+可以用来添加PATH变量和GOPATH变量
 
 ## 下载方式
 ```
